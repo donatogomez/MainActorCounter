@@ -11,12 +11,13 @@ A simple SwiftUI app that demonstrates how and when to use `@MainActor` with `@O
 
 ## 📦 Project Structure
 
-MainActorCounter/
+<pre><code>MainActorCounter/
 ├── Models/
 │   └── CounterModel.swift
 ├── Views/
 │   └── CounterView.swift
-├── MainActorCounterApp.swift
+└── MainActorCounterApp.swift
+</code></pre>
 
 ## 💡 How to Use
 
