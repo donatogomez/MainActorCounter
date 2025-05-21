@@ -30,7 +30,7 @@ MainActorCounter/
 ## 📚 Related Article
 
 Check out the full explanation here:
-👉 [Read on Medium](https://medium.com/@donatogomez/https://medium.com/@donatogomez88/understanding-mainactor-in-swiftui-a-practical-guide-for-swift-6-69e657872ec5)
+👉 [Read on Medium](https://medium.com/@donatogomez88/understanding-mainactor-in-swiftui-a-practical-guide-for-swift-6-69e657872ec5)
 
 ## 🧑‍💻 Author
 
